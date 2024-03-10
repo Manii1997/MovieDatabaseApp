@@ -1,0 +1,17 @@
+.movie-list-container {
+  display: flex;
+  grid-template-columns: auto;
+  grid-template-rows: 1fr;
+  gap: 1rem;
+  list-style: none;
+  padding: 0px;
+  margin-bottom: 0px;
+}
+
+.section-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #2c2c2c;
+  min-height: 80vh;
+}
